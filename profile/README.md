@@ -16,6 +16,7 @@ DinographicPixels signifies "Graphism composed of pixels as gigantic as a dinosa
 
 ### An issue? Need to contact us?
 Contact us: support@dinographicpixels.com, we'll have a close look at your request.
+
 For business inquiries, contact: wade@dinographicpixels.com.
 
 ### Projects
