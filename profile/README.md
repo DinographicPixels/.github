@@ -5,7 +5,7 @@
 Dinographic, originally DinographicPixels, has been been founded in 2017 by Wade B. (@pakkographic) with the ambition to bring a wide variety of dreams come true. From games, software to developer tools, we have worked on many projects, some of them have been discontinued, some are private (or both). Everything started with the early development of the WaitingForHero (WFH), a horror, stress-based game that has been later discontinued after 3 and a half year of development. Since then, we've been building wonderful projects such as Wazowski Memer or our latest public release [TouchGuild](https://touchguild.com), a library for making apps on Guilded, and that lays a strong foundation for developers to make incredible projects out of it.
 
 ### Vision
-Dinographic operates as a boss-free company, fostering a collaborative environment where engineers can team up to create projects aligned with our core vision. Our mission is to build high-quality products that are simple, intuitive, and refined.
+Dinographic operates as a boss-free company, fostering a collaborative environment where engineers can team up to create projects aligned with our core vision while prioritizing freedom within the company. Our mission is to build high-quality products that are simple, intuitive, and refined.
 
 User experience is at the heart of everything we do. We believe in taking care of the details while maintaining simplicity, ensuring a seamless experience for the user.
 
@@ -25,20 +25,26 @@ For business inquiries, contact: wade@dinographicpixels.com.
 - Secret Project#1 (development halted–paused, state: pretty good)
 - Wazowski Memer (2020-2021, offline, verified Discord virtual currency game application inspired by Dank Memer)
 - PixelsCard (2020, abandoned concept, a more flexible and adapted design alternative to Trello, for AMA)
+- dinographicpixels-launcher (2021, archived, launcher for DP games, including WFH)
 - DPWShorts (2021, deprecated, miscellaneous tools, including a simple temporary database, handy coloerful console logging..)
+- Update-Notifier-ND (2021, archived, managing library check-for-updates)
 - Secret Project#2 (2021–now, WIP, continuity of WM)
 - emitterbuilder (2022, a simple, easy to use event emitter, useful for internal projects, deprecated)
 - Translations for Secret Project#2
+- Secret Project#2's website
 - [TouchGuild](https://touchguild.com) (2022–now, active development & maintenance)
 - TouchGuild's website (2022–now)
+- TouchGuild generated docs (2022–now)
 - GuildedAPI-Types.ts (2022–now, Guilded API typings, used as a base for TouchGuild's development)
 - BotBuddies (2023, acquired, team abandoned the project)
-- CPPTG (2023, base library for interfacing with Guilded using C++, API coverage required, development halted)
+- CPPTG (2023, experimental base library for interfacing with Guilded using C++, API coverage required, development halted)
 - Dinographic TouchGuild Data & Analytics API (2024–now, active maintenance and usage, an API required to make TouchGuild's experience better for developers)
 
 > This list is most likely to be missing private projects, and unlisted projects..
 
 > Most of our projects are **not** open-source, repositories below are the open-source projects that we have.
+
+> Last updated: 12/20/24 
 
 
 #### Links:
