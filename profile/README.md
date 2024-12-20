@@ -1,5 +1,7 @@
 ### This is the official GitHub organization of DinographicPixels.
 
+![DinographicPixels, forms & shapes](https://github.com/user-attachments/assets/a0865110-afb0-4919-b5a4-a2d00f7f9c16)
+
 #### Links:
 - [Our website](https://dinographicpixels.com)
 - [Project website: TouchGuild](https://touchguild.com)
