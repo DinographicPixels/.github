@@ -32,6 +32,7 @@ For business inquiries, contact: wade@dinographicpixels.com.
 - [TouchGuild](https://touchguild.com) (2022–now, active development & maintenance)
 - TouchGuild's website (2022–now)
 - GuildedAPI-Types.ts (2022–now, Guilded API typings, used as a base for TouchGuild's development)
+- BotBuddies (2023, acquired, team abandoned the project)
 - CPPTG (2023, base library for interfacing with Guilded using C++, API coverage required, development halted)
 - Dinographic TouchGuild Data & Analytics API (2024–now, active maintenance and usage, an API required to make TouchGuild's experience better for developers)
 
